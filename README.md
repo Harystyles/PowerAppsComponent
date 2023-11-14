@@ -12,3 +12,4 @@ Learn how to build a custom Power Apps component, create a code component soluti
 [Component Framework Manifest Docs](https://docs.microsoft.com/powerapps/developer/component-framework/manifest-schema-reference/?WT.mc_id=ca-5902-cassieb)<br>
 [Import PCF Solution Docs](https://docs.microsoft.com/powerapps/maker/common-data-service/import-update-export-solutions/?WT.mc_id=ca-5902-cassieb)<br>
 [Use PCF Component in Canvas App](https://docs.microsoft.com/powerapps/developer/component-framework/component-framework-for-canvas-apps#add-components-to-a-canvas-app?WT.mc_id=ca-5902-cassieb)<br>
+<br>[Youtube resources}(https://www.youtube.com/watch?v=5TI61xfMgtQ<)br>
